@@ -1,6 +1,6 @@
 # VGMC-GitHub-Presentation
 
-Demo repository for a GitHub demonstration for Berklee VGMC
+Unity version: 2020.69.420
 
 
 
